@@ -96,8 +96,8 @@
 ## ```DEPLOY IN MOGENIUS```
 [![Deploy on Mogenius]( https://telegra.ph/file/ed4218bcb6a1dd40e5fcd.jpg)](https://app.koyeb.com/auth/signup)
     
-## ```DEPLOY IN COOLIFY```    
-[![Deploy on Railway](https://img.shields.io/badge/coolify%20Account-yellow?style=for-the-badge&logo=coolify)](http://65.21.52.72:3000/register)
+## ```DEPLOY IN KOYEB```    
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)
 
     
 

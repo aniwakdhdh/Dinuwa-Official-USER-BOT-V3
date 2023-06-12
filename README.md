@@ -94,7 +94,12 @@
 [![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
 
 ## ```DEPLOY IN MOGENIUS```
-[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
+[![Deploy on Mogenius](https://www.google.com/search?client=avast-a-1&q=koyeb&tbm=isch&sa=X&ved=2ahUKEwiagY7Nur3_AhV1RWwGHRHOClQQ0pQJegQICRAB&biw=1024&bih=625&dpr=1#imgrc=ffxBg4VdXCXkBM)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
+    
+## ```DEPLOY IN COOLIFY```    
+[![Deploy on Railway](https://img.shields.io/badge/coolify%20Account-yellow?style=for-the-badge&logo=coolify)](http://65.21.52.72:3000/register)
+
+    
 
 ## How to deploy in replit
 

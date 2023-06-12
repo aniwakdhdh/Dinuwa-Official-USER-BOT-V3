@@ -94,7 +94,7 @@
 [![Run on Repl.it](https://app.koyeb.com/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
 
 ## ```DEPLOY IN MOGENIUS```
-[![Deploy on Mogenius]( https://telegra.ph/file/ed4218bcb6a1dd40e5fcd.jpg)](https://app.koyeb.com/auth/signup)
+[![Deploy on Mogenius](https://dashboard.render.com/button.svg)](https://dashboard.render.com/registerundefined)
     
 ## ```DEPLOY IN KOYEB```    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)

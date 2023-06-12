@@ -91,7 +91,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```DEPLOY IN REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
+[![Run on Repl.it](https://app.koyeb.com/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
 
 ## ```DEPLOY IN MOGENIUS```
 [![Deploy on Mogenius]( https://telegra.ph/file/ed4218bcb6a1dd40e5fcd.jpg)](https://app.koyeb.com/auth/signup)
